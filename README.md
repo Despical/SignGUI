@@ -1,6 +1,6 @@
 # SignGUI [![](https://jitpack.io/v/Rapha149/SignGUI.svg)](https://jitpack.io/#Rapha149/SignGUI)
 An api to get input text via a sign in Minecraft.  
-The api supports the Minecraft versions from `1.8` to `1.18.2`.
+The api supports the Minecraft versions from `1.8` to `1.20.1`.
 
 ## Integration
 
@@ -12,11 +12,11 @@ Put the following in your `pom.xml`:
 </repository>
 ```
 ```xml
-<dependency>
-    <groupId>com.github.Rapha149.SignGUI</groupId>
-    <artifactId>signgui</artifactId>
-    <version>v1.9.2</version>
-</dependency>
+	<dependency>
+	    <groupId>com.github.Despical.SignGUI</groupId>
+	    <artifactId>signgui</artifactId>
+	    <version>1.20.1</version>
+	</dependency>
 ```
 
 ### [Javadoc](https://javadoc.jitpack.io/com/github/Rapha149/SignGUI/signgui/v1.7/javadoc/de/rapha149/signgui/package-summary.html)  
